@@ -66,13 +66,13 @@
   "employees": [
     {
       "id": 1,
-      "specialty": "PC Repair",
-      "rate": 72.47,
+      "specialty": "PC and Mac repairs",
+      "rate": 80,
       "userId": 4
     },
     {
       "id": 2,
-      "specialty": "Apple Repair",
+      "specialty": "Apple Repairs",
       "rate": 97.39,
       "userId": 5
     },
@@ -83,7 +83,7 @@
       "userId": 6
     },
     {
-      "id":4,
+      "id": 4,
       "specialty": "Android Repair",
       "rate": 6.66,
       "userId": 7
